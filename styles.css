@@ -3,4 +3,15 @@ background-image: url('dragonite');
     background-size: cover; 
     background-repeat: no-repeat; 
     background-attachment: fixed;
+    font-size: 30px;
+    color: black;
+    transition: color 0.3s;
+}
+
+p:hover {
+    color: orange; 
+}
+
+button:hover{
+    color: orange;
 }
